@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Account_Name": {
+      "type": "string"
+    },
+    "Account_Number": {
+      "type": "string"
+    },
+    "Account_Balance": {
+      "type": "string"
+    }
+  }
+}
